@@ -30,8 +30,8 @@ _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [Flask](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [SqlAlquimist](https://maven.apache.org/) - Manejador de dependencias
-* [Jinja2](https://rometools.github.io/rome/) - Usado para generar RSS
+* [SqlAlquimist](https://maven.apache.org/) - ORM
+* [Jinja2](https://rometools.github.io/rome/) - Motor de plantillas
 * [pipenv](https://rometools.github.io/rome/) - Usado para el entorno virtual de python
 
 
